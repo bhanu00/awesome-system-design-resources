@@ -8,13 +8,20 @@ Join my free [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE Sys
 
 ## 📌 System Design Key Concepts
 - [Scalability](https://blog.algomaster.io/p/scalability)
-- [Availability](https://blog.algomaster.io/p/system-design-what-is-availability)
+- [Reliability](https://www.youtube.com/watch?v=jwsyC9CQKA4)
+  - [Availability](https://blog.algomaster.io/p/system-design-what-is-availability)
+  - [Fault Tolerance](https://www.cockroachlabs.com/blog/what-is-fault-tolerance/)
+  - [Resiliency]()
+    - [Patterns for Resilient Architecture - Adrian Hornsby - Video](https://www.youtube.com/watch?v=gET51_C3k5s) It covers Resilancy patterns, Famous 9s of availibility
+    - [Five Design Patterns to build resilient Applications - Derek Bingham - NDC Melbourne 2022 - Video](https://www.youtube.com/watch?v=gE4Bo5ZjfgY)
+    - [AWS re:Invent 2023 - Resilient architectures at scale: Real-world use cases from Amazon.com - Video](https://www.youtube.com/watch?v=fQgaR-iQrTY)
+    - [How to verify resiliancy of a cloud-native application](https://www.ibm.com/blog/a-four-step-approach-to-verifying-the-resiliency-of-cloud-native-applications/)
+    - [Understand resiliency patterns in AWS](https://aws.amazon.com/blogs/architecture/understand-resiliency-patterns-and-trade-offs-to-architect-efficiently-in-the-cloud/)
 - [CAP Theorem](https://blog.algomaster.io/p/cap-theorem-explained)
 - [ACID Transactions](https://blog.algomaster.io/p/ecae03ba-1930-42ef-8796-83e2fa818989)
 - [Consistent Hashing](https://highscalability.com/consistent-hashing-algorithm/)
 - [Rate Limiting](https://blog.algomaster.io/p/rate-limiting-algorithms-explained-with-code)
 - [SPOF](https://blog.algomaster.io/p/system-design-how-to-avoid-single-point-of-failures)
-- [Fault Tolerance](https://www.cockroachlabs.com/blog/what-is-fault-tolerance/)
 - [Consensus Algorithms](https://medium.com/@sourabhatta1819/consensus-in-distributed-system-ac79f8ba2b8c)
 - [Gossip Protocol](http://highscalability.com/blog/2023/7/16/gossip-protocol-explained.html)
 - [Service Discovery](https://blog.algomaster.io/p/0204da93-f0e9-49b9-a88a-cb20b9931575)
