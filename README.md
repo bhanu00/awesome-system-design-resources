@@ -12,6 +12,7 @@ Join my free [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE Sys
   - [Availability](https://blog.algomaster.io/p/system-design-what-is-availability)
   - [Fault Tolerance](https://www.cockroachlabs.com/blog/what-is-fault-tolerance/)
   - [Resiliency]()
+    - Optional - Below are the videos to understand more about Resiliency patterns
     - [Patterns for Resilient Architecture - Adrian Hornsby - Video](https://www.youtube.com/watch?v=gET51_C3k5s) It covers Resilancy patterns, Famous 9s of availibility
     - [Five Design Patterns to build resilient Applications - Derek Bingham - NDC Melbourne 2022 - Video](https://www.youtube.com/watch?v=gE4Bo5ZjfgY)
     - [AWS re:Invent 2023 - Resilient architectures at scale: Real-world use cases from Amazon.com - Video](https://www.youtube.com/watch?v=fQgaR-iQrTY)
