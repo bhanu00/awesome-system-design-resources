@@ -140,7 +140,11 @@ Below are the videos to understand more about Resiliency patterns
 - [Design Live Comments](https://systemdesign.one/live-comment-system-design/)
 
 ## 📚 Books
-- [Designing Data-Intensive Applications](https://amzn.to/4fh2qUZ)
+- [Designing Data-Intensive Applications](https://www.amazon.in/dp/9352135245)
+
+## 📩 Newsletters
+- [AlgoMaster Newsletter](https://blog.algomaster.io/)
+- [ByteByteGo Newsletter](https://blog.bytebytego.com?r=1drwaf)
 
 ## 📺 YouTube Channels
 - [Tech Dummies Narendra L](https://www.youtube.com/@TechDummiesNarendraL)
