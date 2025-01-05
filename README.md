@@ -76,7 +76,7 @@ Join my free [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE Sys
 ## 🖇️ System Design Architectural Patterns
 - [Client-Server Architecture](https://blog.algomaster.io/p/4585cf8e-30a4-4295-936f-308a25cb716c)
 - [Microservices Architecture](https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9)
-- [Serverless Architecture](https://blog.algomaster.io/p/2edeb23b-cfa5-4b24-845e-3f6f7a39d162)
+- [Serverless Architecture](https://blog.algomaster.io/p/2edeb23b-cfa5-4b24-845e-3f6f7a39d162) - Done
 - [Event-Driven Architecture](https://www.confluent.io/learn/event-driven-architecture/)
 - [Peer-to-Peer (P2P) Architecture](https://www.spiceworks.com/tech/networking/articles/what-is-peer-to-peer/)
 
