@@ -43,6 +43,7 @@ Join my free [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE Sys
 - [Database Indexes](https://blog.algomaster.io/p/a-detailed-guide-on-database-indexes)
 - [Consistency Patterns](https://systemdesign.one/consistency-patterns/)
 - [HeartBeats](https://blog.algomaster.io/p/heartbeats-in-distributed-systems)
+- [CQRS Pattern](https://github.com/bhanu00/awesome-system-design-resources/blob/main/system-design.md#command-query-responsibility-segregation-cqrs) - Done
 - [Circuit Breaker](https://medium.com/geekculture/design-patterns-for-microservices-circuit-breaker-pattern-276249ffab33)
 - [Idempotency](https://blog.algomaster.io/p/idempotency-in-distributed-systems)
 - [Database Scaling](https://blog.algomaster.io/p/system-design-how-to-scale-a-database)
