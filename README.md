@@ -43,6 +43,7 @@ Join my free [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE Sys
 - [Database Indexes](https://blog.algomaster.io/p/a-detailed-guide-on-database-indexes)
 - [Consistency Patterns](https://systemdesign.one/consistency-patterns/)
 - [HeartBeats](https://blog.algomaster.io/p/heartbeats-in-distributed-systems)
+- [Event Sourcing](https://developer.confluent.io/courses/microservices/event-sourcing/) - Done
 - [CQRS Pattern](https://github.com/bhanu00/awesome-system-design-resources/blob/main/system-design.md#command-query-responsibility-segregation-cqrs) - Done
 - [Circuit Breaker](https://medium.com/geekculture/design-patterns-for-microservices-circuit-breaker-pattern-276249ffab33)
 - [Idempotency](https://blog.algomaster.io/p/idempotency-in-distributed-systems)
@@ -78,7 +79,7 @@ Join my free [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE Sys
 - [Client-Server Architecture](https://blog.algomaster.io/p/4585cf8e-30a4-4295-936f-308a25cb716c)
 - [Microservices Architecture](https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9)
 - [Serverless Architecture](https://blog.algomaster.io/p/2edeb23b-cfa5-4b24-845e-3f6f7a39d162) - Done
-- [Event-Driven Architecture](https://www.confluent.io/learn/event-driven-architecture/)
+- [Event-Driven Architecture](https://www.confluent.io/learn/event-driven-architecture/) - Done
 - [Peer-to-Peer (P2P) Architecture](https://www.spiceworks.com/tech/networking/articles/what-is-peer-to-peer/)
 
 ## ✅ How to Answer a System Design Interview Problem
