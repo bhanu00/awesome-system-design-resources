@@ -19,7 +19,7 @@ Join my free [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE Sys
     - [Understand resiliency patterns in AWS](https://aws.amazon.com/blogs/architecture/understand-resiliency-patterns-and-trade-offs-to-architect-efficiently-in-the-cloud/)
 - [CAP Theorem](https://blog.algomaster.io/p/cap-theorem-explained) - Done
 - [ACID Transactions](https://blog.algomaster.io/p/ecae03ba-1930-42ef-8796-83e2fa818989) - Done
-- [Consistent Hashing](https://highscalability.com/consistent-hashing-algorithm/)
+- [Consistent Hashing](https://highscalability.com/consistent-hashing-algorithm/) - Done
 - [Rate Limiting](https://blog.algomaster.io/p/rate-limiting-algorithms-explained-with-code)
 - [SPOF](https://blog.algomaster.io/p/system-design-how-to-avoid-single-point-of-failures) - Done
 - [Cascading failure](https://github.com/bhanu00/awesome-system-design-resources/blob/main/system-design.md#cascading-failure) - Done
@@ -48,9 +48,9 @@ Join my free [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE Sys
 - [Circuit Breaker](https://medium.com/geekculture/design-patterns-for-microservices-circuit-breaker-pattern-276249ffab33)
 - [Idempotency](https://blog.algomaster.io/p/idempotency-in-distributed-systems)
 - [Database Scaling](https://blog.algomaster.io/p/system-design-how-to-scale-a-database)
-- [Data Replication](https://redis.com/blog/what-is-data-replication/)
-- [Data Redundancy](https://blog.algomaster.io/p/489440f1-9c80-4241-9ec8-de156964c3b9)
-- [Database Sharding](https://blog.algomaster.io/p/what-is-database-sharding)
+- [Data Replication](https://redis.com/blog/what-is-data-replication/) - Done
+- [Data Redundancy](https://blog.algomaster.io/p/489440f1-9c80-4241-9ec8-de156964c3b9) - Done
+- [Database Sharding](https://blog.algomaster.io/p/what-is-database-sharding) - Done
 - [Database Architectures](https://www.mongodb.com/developer/products/mongodb/active-active-application-architectures/)
 - [Failover](https://www.druva.com/glossary/what-is-a-failover-definition-and-related-faqs)
 - [Bloom Filters](https://blog.algomaster.io/p/bloom-filters)
