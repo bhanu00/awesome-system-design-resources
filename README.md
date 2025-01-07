@@ -45,7 +45,7 @@ Join my free [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE Sys
 - [HeartBeats](https://blog.algomaster.io/p/heartbeats-in-distributed-systems)
 - [Event Sourcing](https://developer.confluent.io/courses/microservices/event-sourcing/) - Done
 - [CQRS Pattern](https://github.com/bhanu00/awesome-system-design-resources/blob/main/system-design.md#command-query-responsibility-segregation-cqrs) - Done
-- [Circuit Breaker](https://medium.com/geekculture/design-patterns-for-microservices-circuit-breaker-pattern-276249ffab33)
+- [Circuit Breaker](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/implement-resilient-applications/implement-circuit-breaker-pattern)
 - [Idempotency](https://blog.algomaster.io/p/idempotency-in-distributed-systems)
 - [Database Scaling](https://blog.algomaster.io/p/system-design-how-to-scale-a-database)
 - [Data Replication](https://redis.com/blog/what-is-data-replication/) - Done
