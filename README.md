@@ -29,6 +29,7 @@ Join my free [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE Sys
 - [API Design](https://abdulrwahab.medium.com/api-architecture-best-practices-for-designing-rest-apis-bf907025f5f)
 - [Disaster Recovery](https://cloud.google.com/learn/what-is-disaster-recovery)
 - [Distributed Tracing](https://www.dynatrace.com/news/blog/what-is-distributed-tracing/)
+- [NFRs in AWS](https://github.com/bhanu00/awesome-system-design-resources/blob/main/nfr-in-aws.md#high-availability-fault-tolerance-and-failover-in-aws)
 
 ## 🛠️ System Design Building Blocks
 - [Content Delivery Network (CDN)](https://blog.algomaster.io/p/27c62e07-f25b-40ac-a397-101cc54f1f0a) - Done
