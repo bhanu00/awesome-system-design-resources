@@ -4,7 +4,7 @@
 
 This repository contains free resources to learn System Design concepts and prepare for interviews.
 
-Join my free [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE System Design Interview Handbook** in your inbox.
+Subscribe to my [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE System Design Interview Handbook** in your inbox.
 
 ## 📌 System Design Key Concepts
 - [Scalability](https://blog.algomaster.io/p/scalability) - Done
@@ -25,7 +25,7 @@ Join my free [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE Sys
 - [Cascading failure](https://github.com/bhanu00/awesome-system-design-resources/blob/main/system-design.md#cascading-failure) - Done
 - [Consensus Algorithms](https://medium.com/@sourabhatta1819/consensus-in-distributed-system-ac79f8ba2b8c)
 - [Gossip Protocol](http://highscalability.com/blog/2023/7/16/gossip-protocol-explained.html)
-- [Service Discovery](https://blog.algomaster.io/p/0204da93-f0e9-49b9-a88a-cb20b9931575)
+- [Service Discovery](https://blog.algomaster.io/p/service-discovery-in-distributed-systems)
 - [API Design](https://abdulrwahab.medium.com/api-architecture-best-practices-for-designing-rest-apis-bf907025f5f)
 - [Disaster Recovery](https://cloud.google.com/learn/what-is-disaster-recovery)
 - [Distributed Tracing](https://www.dynatrace.com/news/blog/what-is-distributed-tracing/)
@@ -58,7 +58,7 @@ Join my free [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE Sys
 - [Message Queues](https://blog.algomaster.io/p/message-queues)
 - [WebSockets](https://blog.algomaster.io/p/websockets)
 - [Checksums](https://blog.algomaster.io/p/what-are-checksums)
-- [API Gateway](https://www.nginx.com/learn/api-gateway/)
+- [API Gateway](https://blog.algomaster.io/p/what-is-an-api-gateway)
 - [Microservices Guidelines](https://newsletter.systemdesign.one/p/netflix-microservices) 
 - [Distributed Locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 
